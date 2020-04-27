@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/flutter_crm/static/css/main.ecf0da8d.chunk.css",
+    "main.js": "/flutter_crm/static/js/main.6749fcb5.chunk.js",
+    "main.js.map": "/flutter_crm/static/js/main.6749fcb5.chunk.js.map",
+    "runtime-main.js": "/flutter_crm/static/js/runtime-main.70a9e126.js",
+    "runtime-main.js.map": "/flutter_crm/static/js/runtime-main.70a9e126.js.map",
+    "static/css/2.de424728.chunk.css": "/flutter_crm/static/css/2.de424728.chunk.css",
+    "static/js/2.01b97a37.chunk.js": "/flutter_crm/static/js/2.01b97a37.chunk.js",
+    "static/js/2.01b97a37.chunk.js.map": "/flutter_crm/static/js/2.01b97a37.chunk.js.map",
+    "index.html": "/flutter_crm/index.html",
+    "precache-manifest.29dd5572f9947770f1fb565514f1cfb9.js": "/flutter_crm/precache-manifest.29dd5572f9947770f1fb565514f1cfb9.js",
+    "service-worker.js": "/flutter_crm/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/flutter_crm/static/css/2.de424728.chunk.css.map",
+    "static/css/main.ecf0da8d.chunk.css.map": "/flutter_crm/static/css/main.ecf0da8d.chunk.css.map",
+    "static/js/2.01b97a37.chunk.js.LICENSE.txt": "/flutter_crm/static/js/2.01b97a37.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.70a9e126.js",
+    "static/css/2.de424728.chunk.css",
+    "static/js/2.01b97a37.chunk.js",
+    "static/css/main.ecf0da8d.chunk.css",
+    "static/js/main.6749fcb5.chunk.js"
+  ]
+}
